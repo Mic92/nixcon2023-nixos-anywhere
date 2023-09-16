@@ -1,12 +1,3 @@
----
-type: slide
-slideOptions:
-  transition: slide
-  theme: white
-  width: 960
-  height: 700
----
-
 # disko and nixos-anywhere:
 
 ## Declarative and Remote Installation of NixOS
